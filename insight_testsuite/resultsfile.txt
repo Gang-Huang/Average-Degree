@@ -1,0 +1,2 @@
+[PASS]: test-2-tweets-in-demo
+[07-Apr-2016 22:34:13] 1 of 1 tests passed
